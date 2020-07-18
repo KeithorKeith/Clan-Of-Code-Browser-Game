@@ -1,4 +1,4 @@
-# week8-group-project
+# Clan-Of-Code-Browser-Game
 
 Folder structure
 
